@@ -1,0 +1,20 @@
+html {
+    height: 100%;
+}
+
+body {
+    padding-top: 56px;
+    height: 100%;
+}
+
+#main-container,
+#main-container .row {
+    height: 100%;
+}
+
+.sidebar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #f5f5f5;
+    border-right: 1px solid #eee;
+}

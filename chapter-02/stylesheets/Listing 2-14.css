@@ -1,0 +1,19 @@
+* {
+    color: white;
+}
+
+.row {
+    background-color: darkblue;
+}
+
+.col-2:nth-child(1) {
+    background-color: #902e07;
+}
+
+.col-2:nth-child(2) {
+    background-color: #31907c;
+}
+
+.col-2:nth-child(3) {
+    background-color: #89906b;
+}

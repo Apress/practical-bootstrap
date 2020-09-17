@@ -1,0 +1,19 @@
+.sidebar ul li a {
+    text-decoration: none;
+}
+
+/* Active <li> and <a>, and for hover over NON-active <li> and <a> */
+.sidebar ul li.active,
+.sidebar ul li.active a,
+
+.sidebar ul li:hover,
+.sidebar ul li:hover a,
+.sidebar ul li a:hover {
+    background-color: #428BCA;
+    color: White;
+}
+
+.sidebar ul li:hover {
+    cursor: pointer;
+}
+

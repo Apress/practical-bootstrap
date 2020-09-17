@@ -1,0 +1,15 @@
+* {
+    color: white;
+}
+
+.row {
+    background-color: black;
+}
+
+.row-1 .col {
+    background-color: #902e07;
+}
+
+.row-2 .col {
+    background-color: #31907c;
+}

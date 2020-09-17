@@ -1,0 +1,15 @@
+* {
+    color: white;
+}
+
+.row {
+    background-color: darkblue;
+}
+
+.row.parent {
+    background-color: #367390;
+}
+
+.row.nested {
+    background-color: #31907c;
+}

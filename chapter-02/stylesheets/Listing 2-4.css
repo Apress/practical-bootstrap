@@ -1,0 +1,9 @@
+.row {
+    background-color: #4e9013;
+    color: white;
+    min-height: 200px;
+}
+
+.col {
+    background-color: #31907c;
+}

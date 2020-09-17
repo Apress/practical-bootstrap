@@ -1,0 +1,11 @@
+.container {
+    background-color: #8DC5CC;
+}
+
+.container .row:nth-of-type(1) div {
+    background-color: #4e9013;
+    padding: 10px 0;
+    border: 1px solid green;
+    color: white;
+    text-align: center;
+}

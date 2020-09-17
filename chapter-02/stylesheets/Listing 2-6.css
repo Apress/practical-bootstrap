@@ -1,0 +1,21 @@
+.row {
+    min-height: 200px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.align-items-start {
+    background-color: #4e9013;
+}
+
+.align-items-center {
+    background-color: #902e07;
+}
+
+.align-items-end {
+    background-color: #8DC5CC;
+}
+
+.col {
+    background-color: #367390;
+}

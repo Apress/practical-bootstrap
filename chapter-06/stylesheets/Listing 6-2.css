@@ -1,0 +1,14 @@
+html {
+    height: 100%;
+    background-color: White;
+}
+
+body {
+    min-height: 100%;
+    background-color: #2b542c;
+    background-image: url("../images/prague-czech-republic.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left top;
+    background-size: 100% 100%;
+}

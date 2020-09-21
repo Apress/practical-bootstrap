@@ -1,0 +1,12 @@
+#navigation-bar-container a.navbar-brand,
+#navbar ul a {
+    font-weight: 900;
+}
+
+#navigation-bar-container a.navbar-brand {
+    font-size: 3.2rem;
+}
+
+#navbar ul a {
+    font-size: 1.8rem;
+}
